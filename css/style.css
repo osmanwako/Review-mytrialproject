@@ -42,7 +42,7 @@ nav {
   font-weight: 400;
 }
 
-nav > ul {
+.navbar-list {
   width: 35vw;
   display: flex;
   flex-direction: row;
